@@ -1,2 +1,3 @@
 # tech-stuff
-my very first repository
+my very first repository.
+Author- divyansh rajput
